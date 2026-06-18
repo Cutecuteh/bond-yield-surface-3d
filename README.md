@@ -4,6 +4,8 @@ A 3-D visualization of the U.S. Treasury yield curve and how its **shape** evolv
 through time, built from live [FRED](https://fred.stlouisfed.org/) data. Inspired by
 the New York Times' 2015 "A 3-D View of a Chart That Predicts the Economic Future."
 
+![Yield curve surface](yield_surface.png)
+
 ## What it shows
 
 The surface plots three things at once (the *term structure of interest rates*):
@@ -75,4 +77,4 @@ Series: `DGS6MO`, `DGS1`, `DGS2`, `DGS3`, `DGS5`, `DGS7`, `DGS10`, averaged mont
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
